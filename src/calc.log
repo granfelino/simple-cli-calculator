@@ -1,0 +1,5 @@
+2025-10-29 16:22:38,408 - __main__ - INFO - Program start.
+2025-10-29 16:22:38,423 - __main__ - INFO - Parser ready.
+2025-10-29 16:22:38,424 - __main__ - INFO - Arguments parsed.
+2025-10-29 16:22:38,424 - calc.operations - DEBUG - Performing division.
+2025-10-29 16:22:38,425 - calc.operations - ERROR - Division by zero.
